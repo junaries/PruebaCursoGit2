@@ -1,8 +1,2 @@
 línea1
 linea2
-<<<<<<< HEAD
-linea3
-linea4
-linea5
-=======
->>>>>>> parent of 024e3fb (agregando linea3)
